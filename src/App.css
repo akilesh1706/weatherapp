@@ -1,0 +1,10 @@
+.container {
+  max-width: 1080px;
+  margin: 20px auto;
+}
+
+.container2{
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
